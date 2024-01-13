@@ -1,0 +1,6 @@
+@TestGenerics_HostAddress = http://localhost:5079
+
+GET {{TestGenerics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

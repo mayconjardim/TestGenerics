@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Motorola Moto G53",
+    "price": 899.99,
+    "memory": "4GB"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Book Core i5-1135G7, 8GB",
+    "price": 2799.00,
+    "SSD": 512
+  },
+  {
+    "id": 3,
+    "name": "Echo Dot 5 geração",
+    "price": 476.10,
+    "hasClock": true
+  },
+  {
+    "id": 4,
+    "name": "Headset com fio USB Logitech H390",
+    "price": 189.99,
+    "discount": 9.99
+  },
+  {
+    "id": 5,
+    "name": "Controle DualSense - Branco",
+    "price": 379.99,
+    "consoleVersion": "PS5"
+  }
+]
